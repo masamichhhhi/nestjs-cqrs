@@ -23,8 +23,13 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+cqrs + DDD  
+↓の動画をやってみる  
+https://www.youtube.com/watch?v=4ZVdjRNArnw  
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+
+
+mongoをdockerで動かしたい
 
 ## Installation
 
