@@ -1,6 +1,6 @@
 import { CommandHandler, EventPublisher, ICommandHandler } from '@nestjs/cqrs';
-import { CamperFactory } from '../camper.factory';
-import { createCamperRequest } from '../dto/request/create-camper-request.dto';
+import { CamperFactory } from '../../camper.factory';
+import { createCamperRequest } from '../../dto/request/create-camper-request.dto';
 import { CreateCamperCommand } from './create-camper.command';
 
 @CommandHandler(CreateCamperCommand)
